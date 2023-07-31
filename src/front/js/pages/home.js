@@ -15,7 +15,7 @@ export const Home = () => {
 	});
 	return (
 		<div className="text-center mt-5">
-			<h1>The CatGallery</h1>
+			<h1>The CatGallery v2.0</h1>
 			<p>
 				<img style={{ width: 200 }} src={catImageUrl} />
 			</p>
